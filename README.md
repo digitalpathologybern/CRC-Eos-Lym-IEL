@@ -17,6 +17,8 @@ calculate_scores.py \
 
 The output file will be one or multiple CSV files with a row for each WSI containing scores for each cell type in tumor front and center (if estimation is available and worked correctly).
 
+This work heavily relies on [HoVer-NeXt](https://github.com/digitalpathologybern/hover_next_inference) and the C2R adaptation (unpublished) of [SRMA](https://github.com/christianabbet/SRA).
+
 ## Citation
 If you are relying on results from the paper or use the code to generate similar results, please consider citing the our work:
 ```
