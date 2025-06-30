@@ -1,7 +1,7 @@
 # Deep learning-based quantification of eosinophils and lymphocytes shows complementary prognostic effects and interplay in patients with colorectal cancer
 
 ## Code to generate the results from the published paper:
-[Deep learning-based quantification of eosinophils and lymphocytes shows complementary prognostic effects and interplay in patients with colorectal cancer]()
+[Deep learning-based quantification of eosinophils and lymphocytes shows complementary prognostic effects and interplay in patients with colorectal cancer](https://www.nature.com/articles/s41698-025-00955-0)
 
 ## How to use:
 ```
@@ -22,5 +22,15 @@ This work heavily relies on [HoVer-NeXt](https://github.com/digitalpathologybern
 ## Citation
 If you are relying on results from the paper or use the code to generate similar results, please consider citing the our work:
 ```
-TODO
+@article{baumann2025deep,
+  title={Deep learning-based quantification of eosinophils and lymphocytes shows complementary prognostic effects in colorectal cancer patients},
+  author={Baumann, Elias and Lechner, Sophie and Krebs, Philippe and Kirsch, Richard and Berger, Martin D and Lugli, Alessandro and Nagtegaal, Iris D and Perren, Aurel and Zlobec, Inti},
+  journal={npj Precision Oncology},
+  volume={9},
+  number={1},
+  pages={1--11},
+  year={2025},
+  publisher={Nature Publishing Group}
+}
+
 ```
